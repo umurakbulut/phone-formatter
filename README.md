@@ -66,9 +66,9 @@ MIT — see the [LICENSE](./LICENSE) file for details.
 
 ## ☕ Support
 
-If this project helped you or saved you time, you can support me here:
+If you find this tool helpful, you can support me here:
 
-👉 [buymeacoffee.com/umur](https://buymeacoffee.com/umur)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/umur)
 
 ---
 
